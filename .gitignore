@@ -20,16 +20,22 @@
 *.tar
 *.zip
 
+# Data files #
+##############
+*.h5
+*.nc
+
 # Logs and databases #
 ######################
 *.log
 *.sql
 *.sqlite
 
-# Swap files #
+# Swap and backup files #
 ##############
 *.swp
 *~
+*bak
 
 # OS generated files #
 ######################
